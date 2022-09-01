@@ -1,7 +1,7 @@
 ### Iago Ferreira
 
 
-:computer:  Atualmente trabalho como Analista de infraestrutura na Maxmilhas e sou responsável pelo monitoramento e sustentação do ambiente na cloud.
+:computer:  Ajudo profissionais de TI a migrarem para área de CLOUD/DEVOPS e ganharem 10k por mês.
 
 <div align="center">
   <a href="https://github.com/iagoferreirati">
